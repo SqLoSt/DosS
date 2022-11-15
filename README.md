@@ -1,2 +1,48 @@
-# DosS
-An python DOS tool to do DDOS attacks , fast , powerfull and with colors!
+## What is an **DosS** tool?
+Well DoS tools used to do packet attacks on targeted ip/server/link with alot of package requests.
+Our DosS tool is pretty nice to Attack on a website , easy and clear Appereance!.
+
+## **Features**
+- [x] Fast.
+- [x] Secure.
+- [x] Basic.
+- [x] No bugs.
+- [x] Easy to use.
+- [x] Fast setup!
+
+### Warning ⚠️
+- This tool **Does Not** Provide any illegal activaty and shouldn't be used on illegal activaty , tool owner / coders won't take any responsibiliy of any illegal activaty.
+
+### Tests etc :
+~ Tested on :
+  > Linux
+
+  > Termux 
+
+![tool](https://media.discordapp.net/attachments/1041365869701386361/1042080650007691304/IMG_20221115_171545.jpg)
+## Setup
+- for people who pastes one by one :
+```
+pkg update
+pkg install git
+git clone https://github.com/SqLoSt/DosS
+cd DosS
+bash setup.sh
+```
+- for **fast** people :
+```
+pkg update && pkg install git && git clone https://github.com/SqLoSt/DosS && cd DosS && bash setup.sh
+```
+## Troubleshooting :
+- if you get an eror like 
+>  "python is not installed..." , this trouble occurs because setup has been done wrong so copy and paste code below:
+```
+pkg update && pkg install python && pkg upgrade python
+```
+
+##Contact us!
+- ***Sqlost#8883*** - Discord May be  Closed.
+- **Our [discord server](https://discord.gg/fXJgZVGbE6)**
+- **Our [YouTube Channel](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw)**
+
+
