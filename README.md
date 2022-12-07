@@ -2,6 +2,16 @@
 Well DoS tools used to do packet attacks on targeted ip/server/link with alot of package requests.
 Our DosS tool is pretty nice to Attack on a website , easy and clear Appereance!.
 
+### Tool:
+- Made by SqLoSt 
+- Current version is **2.1v** 
+( please remove old version while using new one)
+- Runs super fast
+
+### Update 2.1v :
+~ changed everything, especially Appereance , ui etc 
+~ now tool runs even faster.
+(you have to run **install.sh** again to tool to run!**
 ## **Features**
 - [x] Fast.
 - [x] Secure.
@@ -23,8 +33,6 @@ Our DosS tool is pretty nice to Attack on a website , easy and clear Appereance!
 ## Setup
 - for people who pastes one by one :
 ```
-pkg update
-pkg install git
 git clone https://github.com/SqLoSt/DosS
 cd DosS
 bash setup.sh
