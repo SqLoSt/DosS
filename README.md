@@ -49,7 +49,7 @@ pkg update && pkg install python && pkg upgrade python
 ```
 
 ##Contact us!
-- ***Sqlost#8883*** - Discord May be  Closed.
+- ***SqLoSt#6660*** - Discord May be  Closed.
 - **Our [discord server](https://discord.gg/fXJgZVGbE6)**
 - **Our [YouTube Channel](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw)**
 
