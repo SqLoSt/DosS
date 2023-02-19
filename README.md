@@ -48,9 +48,8 @@ pkg update && pkg install git && git clone https://github.com/SqLoSt/DosS && cd 
 pkg update && pkg install python && pkg upgrade python
 ```
 
-##Contact us!
-- ***SqLoSt#6660*** - Discord May be  Closed.
-- **Our [discord server](https://discord.gg/fXJgZVGbE6)**
+#### ☕ | Contact us!
+- ***SqLoSt#6660*** - Discord May be  Closed , preferred option
+- **Our [discord server](https://discord.gg/aV2XGhRvup)** 
 - **Our [YouTube Channel](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw)**
-
 
